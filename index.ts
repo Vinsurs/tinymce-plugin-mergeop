@@ -1,4 +1,3 @@
-import type { MergeopValue, MergeopConfig } from "tinymce"
 tinymce.PluginManager.add('mergeop', function(editor) {
   const pluginName = "合并操作"
   const def: MergeopConfig = {

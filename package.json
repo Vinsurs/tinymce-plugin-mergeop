@@ -1,6 +1,6 @@
 {
   "name": "tinymce-plugin-mergeop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tinymce plugin that provides merge operation",
   "keywords": ["tinymce", "tinymce plugin", "tinymce-plugin-mergeop"],
   "main": "index.js",
